@@ -4,7 +4,7 @@ title: Swagger API doc within jekyll
 ---
 
 _jekyll-swagger_ is a [Jekyll](http://jekyllrb.com/) layout that allow you to
-include a [Swagger](http://swagger.io/) API documentation directly a page.
+include a [Swagger](http://swagger.io/) API documentation directly in a page.
 Checkout examples to see how it renders!
 
 **Bonus:** _jekyll-swagger_ works with GitHub pages!
