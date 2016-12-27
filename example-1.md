@@ -1,6 +1,6 @@
 ---
 layout: swagger
-title: Example 1
+title: Petstore
 swagger: "2.0"
 info:
   description: |

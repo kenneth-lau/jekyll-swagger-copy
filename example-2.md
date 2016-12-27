@@ -1,7 +1,7 @@
 ---
 layout: swagger
-title: Example 2
-data: fruits
+title: Uber
+data: uber
 ---
 
 In this example swagger description is included in the page (using `data` front

@@ -3,6 +3,25 @@ layout: page
 title: Swagger API doc within jekyll
 ---
 
+# *jekyll-swagger* layout test
+These two pages demonstrate how the Swagger API documentation are output using *jekyll-swagger*. 
+
+- [Petstore API](/jekyll-swagger-copy/example-1.html) 
+- [Uber API](/jekyll-swagger-copy/example-2.html)
+
+## Issues
+
+- No API console/explorer ("Try it out")
+- Doesn't show full spec file
+  - No authentication/security
+  - No descriptions
+  - Only shows the endpoints
+  - Doesn't show schema
+
+
+
+# *Original Site Test*
+
 _jekyll-swagger_ is a [Jekyll](http://jekyllrb.com/) layout that allow you to
 include a [Swagger](http://swagger.io/) API documentation directly in a page.
 Checkout examples to see how it renders!

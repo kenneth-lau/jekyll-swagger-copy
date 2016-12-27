@@ -1,3 +1,3 @@
 # Swagger API doc within jekyll
 
-Example website for jekyll-swagger. [Try it online!](http://jexhson.github.io/jekyll-swagger/)
+Example website using jekyll-swagger. [Try it online!](https://kenneth-lau.github.io/jekyll-swagger-copy/)
