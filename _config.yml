@@ -1,7 +1,7 @@
 # Site settings
 title: jekyll-swagger
-baseurl: "/jekyll-swagger" # the subpath of your site, e.g. /blog/
-url: "http://jexhson.github.io/jekyll-swagger/" # the base hostname & protocol for your site
+baseurl: "/jekyll-swagger-copy" # the subpath of your site, e.g. /blog/
+url: "https://kenneth-lau.github.io/jekyll-swagger-copy/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
