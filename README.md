@@ -5,7 +5,11 @@ This is a test of the [jekyll-swagger](http://jexhson.github.io/jekyll-swagger/)
 - [Petstore API](https://kenneth-lau.github.io/jekyll-swagger-copy/example-1.html)
 - [Uber API](https://kenneth-lau.github.io/jekyll-swagger-copy/example-2.html)
 
-# Links
+## Screenshot
+
+![Petstore API](images/petstore.png)
+
+## Links
 For more information, see the original repository at [jekyll-swagger](http://jexhson.github.io/jekyll-swagger/). 
 
 
