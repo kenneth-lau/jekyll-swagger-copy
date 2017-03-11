@@ -1,7 +1,9 @@
 # *jekyll-swagger* layout
 This is a test of the [jekyll-swagger](http://jexhson.github.io/jekyll-swagger/) layout for Swagger-based API documentation using Jekyll. 
 
-- [GitHub Pages site](https://kenneth-lau.github.io/jekyll-swagger-copy/)
+## Implementation
+
+- [API documentation site](https://kenneth-lau.github.io/jekyll-swagger-copy/)
 - [Petstore API](https://kenneth-lau.github.io/jekyll-swagger-copy/example-1.html)
 - [Uber API](https://kenneth-lau.github.io/jekyll-swagger-copy/example-2.html)
 
